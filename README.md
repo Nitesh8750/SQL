@@ -7,6 +7,7 @@ This repository contains comprehensive SQL learning materials, structured for be
 ---
 
 📚 What This Repository Contains
+
 📝 1. SQL Topics (Concepts)
 Complete coverage of SQL concepts including:
 
