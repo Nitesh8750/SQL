@@ -92,7 +92,7 @@ If you'd like to contribute to any of these projects:
 Fork the repository.<br>
 Clone the repository to your local machine.<br>
 Create a new branch for your feature or fix.<br>
-Submit a pull request with a clear description of your changes.<br>
+Submit a pull request with a clear description of your changes.
 
 ---
 ## License
@@ -102,7 +102,6 @@ All projects in this repository are licensed under the MIT License. Feel free to
 ## Contact
 For any questions, suggestions, or collaborations, feel free to reach out:
 
----
 Name: Nitesh Kumar<br>
 Email: nk7003361@gmail.com
 
