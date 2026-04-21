@@ -100,7 +100,7 @@ All projects in this repository are licensed under the MIT License. Feel free to
 ## Contact
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-Name: Nitesh Kumar
+Name: Nitesh Kumar<br>
 Email: nk7003361@gmail.com
 
 ## Thank you for visiting this repository! 🚀
