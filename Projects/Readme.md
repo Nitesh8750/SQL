@@ -9,23 +9,23 @@ Each project here is designed to solve specific business problems using SQL, dat
 
 ## 📂 Project Gallery
 
-### 1. [🏗️ Data Warehouse and Analytics Project](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Data_Warehouse_Project)
+### 1. [🍕 Pizza Sales Analysis](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Pizza%20Sales)
+**Focus:** Business Intelligence & KPI Tracking  
+* Analyzed transactional data to identify peak order hours and sales seasonality.
+* Calculated key business metrics like **Average Order Value (AOV)** and **Category Performance**.
+* Identified top-performing products to assist in menu engineering.
+
+### 2. [🏗️ Data Warehouse and Analytics Project](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Data_Warehouse_Project)
 **Focus:** Data Engineering & Architecture  
 * Implemented **Medallion Architecture** (Bronze, Silver, Gold layers).
 * Built ETL pipelines to integrate ERP and CRM data into a centralized SQL Server warehouse.
 * Designed a **Star Schema** for optimized analytical reporting.
 
-### 2. [📊 EDA & Advanced Data Analytics](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/EDA_and_Data_Analytics(Advance%20Project))
+### 3. [📊 EDA & Advanced Data Analytics](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/EDA_and_Data_Analytics(Advance%20Project))
 **Focus:** Advanced SQL & Statistical Discovery  
 * Performed deep-dive exploratory analysis to audit data integrity.
 * Applied **Window Functions** and **CTEs** for complex trend and cumulative analysis.
 * Segmented data into actionable cohorts to drive business strategy.
-
-### 3. [🍕 Pizza Sales Analysis](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Pizza%20Sales)
-**Focus:** Business Intelligence & KPI Tracking  
-* Analyzed transactional data to identify peak order hours and sales seasonality.
-* Calculated key business metrics like **Average Order Value (AOV)** and **Category Performance**.
-* Identified top-performing products to assist in menu engineering.
 
 ---
 
