@@ -75,12 +75,12 @@ The queries contained here are designed to answer critical business questions:
 
 ---
 
-🤝 Contact <br>
-Nitesh Kumar <br>
-📧 Email: nk7003361@gmail.com <br>
-📱 Mobile: 87509903046 <br>
-🔗 LinkedIn: https://www.linkedin.com/in/nitesh-kumar-b08183244/ <br>
-💻 GitHub: https://github.com/Nitesh8750 <br>
+## 🤝 Contact <br>
+## Nitesh Kumar <br>
+**📧 Email:** nk7003361@gmail.com <br>
+**📱 Mobile:** 87509903046 <br>
+**🔗 LinkedIn:** https://www.linkedin.com/in/nitesh-kumar-b08183244/ <br>
+**💻 GitHub:** https://github.com/Nitesh8750 <br>
 
 ---
 *“Turning raw rows into actionable insights, one query at a time.”* 💡
