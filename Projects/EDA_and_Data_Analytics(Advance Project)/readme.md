@@ -71,7 +71,9 @@ The queries contained here are designed to answer critical business questions:
 ## 🚀 How to Use
 1.  **Clone the repo:**
     git clone [https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git)
-2.  **Execute** the scripts against your SQL environment (PostgreSQL, SQL Server, MySQL, etc.).
+2. **Navigate to this project:**
+   cd "SQL_Complete_Begginer_to_Advance/Projects/EDA_and_Data_Analytics(Advance Project)"
+3.  **Execute** the scripts against your SQL environment (PostgreSQL, SQL Server, MySQL, etc.).
 
 ---
 
