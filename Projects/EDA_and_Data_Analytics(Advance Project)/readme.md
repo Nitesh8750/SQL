@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 EDA and Data Analytics (Advanced Project)
 
 Welcome to the **EDA and Data Analytics** repository! 🚀
@@ -69,19 +69,17 @@ The queries contained here are designed to answer critical business questions:
 ---
 
 ## 🚀 How to Use
-1.  **Clone the repo:** ```bash
+1.  **Clone the repo:**
     git clone [https://github.com/your-username/EDA_and_Data_Analytics.git](https://github.com/your-username/EDA_and_Data_Analytics.git)
-    ```
 2.  **Execute** the scripts against your SQL environment (PostgreSQL, SQL Server, MySQL, etc.).
 
 ---
 
 🤝 Contact
-Nitesh Kumar 
-📧 Email: nk7003361@gmail.com
-📱 Mobile: 87509903046
-🔗 LinkedIn: https://www.linkedin.com/in/nitesh-kumar-b08183244/
-💻 GitHub: https://github.com/Nitesh8750
+Nitesh Kumar <br>
+📧 Email: nk7003361@gmail.com <br>
+📱 Mobile: 87509903046 <br>
+🔗 LinkedIn: https://www.linkedin.com/in/nitesh-kumar-b08183244/ <br>
+💻 GitHub: https://github.com/Nitesh8750 <br>
 ---
 *“Turning raw rows into actionable insights, one query at a time.”* 💡
-```
