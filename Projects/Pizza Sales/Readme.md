@@ -1,58 +1,85 @@
-# Pizza Sales Analysis
-This project focuses on analyzing pizza sales data to extract actionable insights about sales trends, top-selling pizzas, and overall business performance. SQL queries are used to clean, manipulate, and analyze the dataset.
 
-## Project Overview
-The goal of the Pizza Sales Analysis is to understand customer preferences, revenue trends, and pizza performance across different categories. The insights derived from this project can help a pizza business optimize its operations, menu, and sales strategies.
+# 🍕 Pizza Sales Analysis (SQL Portfolio Project)
 
-## Objectives
-Analyze total revenue, sales, and order trends.<br>
-Identify the top-selling pizzas by quantity and revenue.<br>
-Determine peak order times and days.<br>
-Evaluate performance of pizza categories, sizes, and types.<br>
-Generate actionable insights for improving sales.<br>
+Welcome to the **Pizza Sales Analysis** repository! 🚀
 
-## Key Features
-Revenue Analysis: Calculate total sales and revenue.<br>
-Top-Selling Pizzas: Identify pizzas with the highest sales and revenue.<br>
-Category Performance: Analyze performance of different pizza categories.<br>
-Peak Sales Times: Identify days and times with the most orders.<br>
-Pizza Size Analysis: Compare the performance of small, medium, and large pizzas.<br>
+This project focuses on transforming raw transactional data from a pizza store into actionable business intelligence. Using advanced SQL techniques, I analyzed sales trends, customer preferences, and product performance to help a business optimize its menu and operational strategies.
 
-## Technologies Used
-SQL <br>
-MySQL / PostgreSQL <br>
-SQL Query Editor (e.g., MySQL Workbench, pgAdmin, or DBeaver) <br>
+---
 
-## How to Run
-<br>
-1. Clone the Repository:<br>
-git clone https://github.com/yourusername/pizza-sales-analysis.git <br>
-cd pizza-sales-analysis<br>
+## 📊 Project Roadmap
+The analysis is structured to provide a 360-degree view of business health, moving from high-level KPIs to granular product insights.
 
-2. Load the Dataset:
-Import the provided CSV files (orders, order_details, pizzas, pizza_types) into your SQL database.<br>
+### 🔍 Phase 1: High-Level Sales Performance
+* **Total Revenue & Order Volume:** Calculating the "Big Numbers" to assess overall growth.
+* **Average Order Value (AOV):** Understanding customer spending patterns.
+* **Total Pizzas Sold:** Tracking the volume of goods moving through the system.
 
-4. Execute Queries:<br>
-Run the SQL queries from pizza_sales_queries.sql to perform the analysis.<br>
+### 📈 Phase 2: Time-Series & Trend Analysis
+* **Daily & Monthly Trends:** Identifying peak days (e.g., weekends) and months for staffing optimization.
+* **Hourly Peak Analysis:** Pinpointing high-traffic hours to streamline kitchen operations.
 
-5. Analyze Results:<br>
-Review the output to gain insights into pizza sales trends and performance.<br>
+### 🍕 Phase 3: Product & Category Deep-Dive
+* **Pizza Category Performance:** Analyzing revenue contribution from Classic, Veggie, Supreme, and Chicken categories.
+* **Size Distribution:** Comparing the popularity of Small, Medium, and Large pizzas.
+* **Top 5 & Bottom 5 Pizzas:** Identifying "Star" products and underperformers for menu engineering.
 
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code with proper attribution.
+---
 
-## Contact
-For any questions, suggestions, or collaborations, feel free to reach out:
-<br>
-Name: Nitesh Kumar<br>
-Email: nk7003361@gmail.com<br>
+## 🏗️ Technical Skillset
+This project demonstrates expertise in:
+* **Data Aggregation:** Using `COUNT`, `SUM`, and `AVG` for complex KPIs.
+* **Advanced Joins:** Connecting orders, pizzas, and pizza types across multiple tables.
+* **CTEs & Subqueries:** Writing clean, readable, and efficient SQL code.
+* **Data Formatting:** Using `ROUND`, `DATE_FORMAT`, and Type Casting for professional reporting.
+* **Window Functions:** Ranking and percentage contributions (`OVER`, `PARTITION BY`).
 
-Thank you for exploring this project! 🍕🚀
+---
 
+## 📂 Repository Structure
+```text
+pizza-sales-analysis/
+│
+├── datasets/                # CSV files (orders, order_details, pizzas, pizza_types)
+│
+├── sql_queries/             # The Analytical Engine
+│   ├── basic_kpis.sql       # Total Revenue, AOV, Total Orders
+│   ├── trend_analysis.sql   # Hourly and Daily sales patterns
+│   └── product_analysis.sql # Category, Size, and Top/Bottom sellers
+│
+├── documents/               # Business insights and visualizations
+└── README.md                # Project documentation
+```
 
+---
 
+## 🎯 Business Impact
+The insights generated from these queries help stakeholders answer:
+1. **When should we increase staffing?** (Based on hourly and daily peak trends).
+2. **Which menu items should we promote?** (Based on high-revenue, low-volume "Star" pizzas).
+3. **What is our most popular size?** (To optimize packaging and inventory costs).
 
+---
 
+## 🚀 How to Use
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git)
+   ```
+2. **Navigate to this project:**
+   **[🔗 View Project Folder on GitHub](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Pizza%20Sales%20Analysis)**
+3. **Execute:** Run the `.sql` scripts in your SQL editor (MySQL, PostgreSQL, or SQL Server) after importing the provided datasets.
 
+---
 
+## 🤝 Contact
+**Nitesh Kumar**
 
+📧 **Email:** [nk7003361@gmail.com](mailto:nk7003361@gmail.com)  
+📱 **Mobile:** 8750993046  
+🔗 **LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/nitesh-kumar-b08183244/)  
+💻 **GitHub:** [Nitesh8750](https://github.com/Nitesh8750)  
+
+---
+*“Slicing through data to serve up business growth.”* 🍕📈
+```
