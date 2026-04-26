@@ -1,68 +1,57 @@
-# SQL Projects Repository
-This repository contains SQL-based projects that demonstrate data analysis, querying, and manipulation of relational databases. These projects provide practical solutions to real-world data challenges using Structured Query Language (SQL).
 
-# Projects
-## 1. Pizza Sales Analysis
-Description:
-<br>
-A comprehensive analysis of pizza sales data to gain insights into sales trends, top-performing pizzas, and customer preferences. The project utilizes SQL queries to extract, transform, and analyze data.
-<br>
+# 🚀 Data Analytics & Engineering Portfolio
 
-# Objectives:
-Analyze total sales, revenue, and order trends.<br>
-Identify best-selling pizza types, sizes, and categories.<br>
-Evaluate customer buying behavior and sales performance over time.<br>
+Welcome to my projects repository! This collection showcases end-to-end data solutions, ranging from foundational **Exploratory Data Analysis (EDA)** to advanced **Data Warehouse Architecture** and **Business Intelligence**.
 
-# Dataset:<br>
-The dataset includes tables like:<br>
-orders (Order details such as order ID, date, time, etc.)<br>
-order_details (Information about pizzas sold and quantities)<br>
-pizzas (Pizza names, sizes, and price details)<br>
-pizza_types (Categories and descriptions of pizza types)<br>
+Each project here is designed to solve specific business problems using SQL, data modeling, and analytical frameworks.
 
-# Key Features:
-Use of SELECT, JOIN, and GROUP BY for data extraction.<br>
-Implementation of aggregate functions (SUM, COUNT, AVG) to analyze sales and revenue.<br>
-Subqueries and window functions for advanced analysis.<br>
-Ranking pizzas by performance using ORDER BY and ranking functions.<br>
+---
 
-# Technologies Used:
-SQL <br>
-MySQL / PostgreSQL <br>
+## 📂 Project Gallery
 
-# How to Run
-1. Clone this repository:<br>
-git clone https://github.com/yourusername/sql-projects.git<br>
-cd sql-projects<br>
-2. Import the dataset into your SQL environment (MySQL/PostgreSQL/SQLite).<br>
-3. Run the SQL queries provided in pizza_sales_queries.sql to analyze the data.<br>
+### 1. [🏗️ Data Warehouse and Analytics Project](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Data%20Warehouse%20and%20Analytics%20Project)
+**Focus:** Data Engineering & Architecture  
+* Implemented **Medallion Architecture** (Bronze, Silver, Gold layers).
+* Built ETL pipelines to integrate ERP and CRM data into a centralized SQL Server warehouse.
+* Designed a **Star Schema** for optimized analytical reporting.
 
-# Requirements
-SQL Database (MySQL, PostgreSQL, or SQLite)<br>
-SQL Editor (MySQL Workbench, pgAdmin, or DBeaver)<br>
+### 2. [📊 EDA & Advanced Data Analytics](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/EDA_and_Data_Analytics(Advance%20Project))
+**Focus:** Advanced SQL & Statistical Discovery  
+* Performed deep-dive exploratory analysis to audit data integrity.
+* Applied **Window Functions** and **CTEs** for complex trend and cumulative analysis.
+* Segmented data into actionable cohorts to drive business strategy.
 
-# License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code with proper attribution.
+### 3. [🍕 Pizza Sales Analysis](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Pizza%20Sales)
+**Focus:** Business Intelligence & KPI Tracking  
+* Analyzed transactional data to identify peak order hours and sales seasonality.
+* Calculated key business metrics like **Average Order Value (AOV)** and **Category Performance**.
+* Identified top-performing products to assist in menu engineering.
 
-# Contact
-For any queries, suggestions, or collaborations, reach out:
+---
 
-Name: Nitesh Kumar <br>
-Email: nk7003361@gmail.com <br>
+## 🛠️ Technical Skillset
+* **Databases:** SQL Server, MySQL, PostgreSQL
+* **Architecture:** Medallion Architecture, Star Schema (Fact & Dimensions)
+* **Analysis:** EDA, KPI Dashboards, Trend Forecasting, Customer Segmentation
+* **SQL Mastery:** CTEs, Window Functions, Complex Joins, Subqueries, Data Cleansing
 
-Thank you for visiting this repository! 🚀
+---
 
+## 🚀 How to Use This Repository
+Each folder is a self-contained project. To explore a specific analysis:
+1.  Navigate into the project folder.
+2.  Review the specific `README.md` within that folder for detailed documentation.
+3.  Access the `/sql_queries` or `/queries` folder to view the source code.
 
+---
 
+## 🤝 Contact & Collaboration
+I am always open to discussing data-driven solutions and technical opportunities.
 
+**Nitesh Kumar** 📧 **Email:** [nk7003361@gmail.com](mailto:nk7003361@gmail.com)  
+📱 **Mobile:** 8750993046  
+🔗 **LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/nitesh-kumar-b08183244/)  
+💻 **GitHub:** [Nitesh8750](https://github.com/Nitesh8750)
 
-
-
-
-
-
-
-
-
-
-
+---
+*“Turning fragmented data into scalable business intelligence.”* 💡
