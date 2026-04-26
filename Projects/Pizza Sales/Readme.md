@@ -62,12 +62,9 @@ The insights generated from these queries help stakeholders answer:
 ---
 
 ## 🚀 How to Use
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git)
-   ```
+1. **Clone the repo:** git clone [https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git)
 2. **Navigate to this project:**
-   **[🔗 View Project Folder on GitHub](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Pizza%20Sales%20Analysis)**
+   **[🔗 View Project Folder on GitHub](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/edit/main/Projects/Pizza%20Sales)**
 3. **Execute:** Run the `.sql` scripts in your SQL editor (MySQL, PostgreSQL, or SQL Server) after importing the provided datasets.
 
 ---
@@ -82,4 +79,3 @@ The insights generated from these queries help stakeholders answer:
 
 ---
 *“Slicing through data to serve up business growth.”* 🍕📈
-```
