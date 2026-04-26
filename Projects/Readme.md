@@ -9,7 +9,7 @@ Each project here is designed to solve specific business problems using SQL, dat
 
 ## 📂 Project Gallery
 
-### 1. [🏗️ Data Warehouse and Analytics Project]([https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Data%20Warehouse%20and%20Analytics%20Project](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Data_Warehouse_Project))
+### 1. [🏗️ Data Warehouse and Analytics Project](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance/tree/main/Projects/Data_Warehouse_Project)
 **Focus:** Data Engineering & Architecture  
 * Implemented **Medallion Architecture** (Bronze, Silver, Gold layers).
 * Built ETL pipelines to integrate ERP and CRM data into a centralized SQL Server warehouse.
