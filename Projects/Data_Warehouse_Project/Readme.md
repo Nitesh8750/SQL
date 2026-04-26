@@ -71,8 +71,7 @@ By consolidating fragmented data from ERP and CRM systems, this project empowers
 ---
 
 ## 🚀 How to Use
-1.  **SQL Repositoy:**
-    git clone [https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git)
+1.  **SQL Repositoy:**[https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git](https://github.com/Nitesh8750/SQL_Complete_Begginer_to_Advance.git)
 2.  **Navigate to this project:** git clone [https://github.com/Nitesh8750/data-warehouse-project.git](https://github.com/Nitesh8750/data-warehouse-project.git)
 3.  **Run the Pipeline:** Execute scripts in order: `bronze` ➡️ `silver` ➡️ `gold`.
 
