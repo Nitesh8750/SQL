@@ -17,8 +17,10 @@ Detailed explanations of SQL concepts. This folder covers:
 * **Intermediate:** Subqueries, Set Operators, Aggregations, Case Statements.
 * **Advanced:** Window Functions (Rank, Lead/Lag), CTEs, Stored Procedures, and Optimization.
 
+
 ### 📝 [2. Notes](./Notes)
 My personal "Cheat Sheets" and conceptual deep-dives. Perfect for quick revision of complex logic like `RANK()` vs `DENSE_RANK()` or the logical order of SQL execution.
+
 
 ### 💻 [3. Queries](./Queries)
 The practice ground. Contains:
@@ -26,11 +28,12 @@ The practice ground. Contains:
 * Real-world scenario-based query challenges.
 * Solutions to complex data manipulation problems.
 
+
 ### 🏗️ [4. Projects](./Projects)
 The application of everything learned. Featured projects include:
+* **Pizza Sales:** Business Intelligence & KPI reporting.
 * **Data Warehouse Project:** Medallion Architecture implementation.
 * **Advanced EDA:** Deep statistical data discovery.
-* **Pizza Sales:** Business Intelligence & KPI reporting.
 
 ---
 
@@ -65,7 +68,7 @@ SQL_Complete_Begginer_to_Advance/
 ## 🤝 Connect with Me
 I am passionate about data architecture and storytelling through SQL. Let's discuss data!
 
-**Nitesh Kumar**
+**Nitesh Kumar** <br>
 📧 **Email:** [nk7003361@gmail.com](mailto:nk7003361@gmail.com)  
 📱 **Mobile:** 8750993046  
 🔗 **LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/nitesh-kumar-b08183244/)  
