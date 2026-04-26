@@ -48,7 +48,8 @@ Each folder is a self-contained project. To explore a specific analysis:
 ## 🤝 Contact & Collaboration
 I am always open to discussing data-driven solutions and technical opportunities.
 
-**Nitesh Kumar** 📧 **Email:** [nk7003361@gmail.com](mailto:nk7003361@gmail.com)  
+**Nitesh Kumar** <br>
+📧 **Email:** [nk7003361@gmail.com](mailto:nk7003361@gmail.com)  
 📱 **Mobile:** 8750993046  
 🔗 **LinkedIn:** [Nitesh Kumar](https://www.linkedin.com/in/nitesh-kumar-b08183244/)  
 💻 **GitHub:** [Nitesh8750](https://github.com/Nitesh8750)
